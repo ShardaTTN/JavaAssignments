@@ -1,0 +1,2 @@
+
+Time of transaction: 2022.02.17.20.32.30	Account number: 1100510023	Amount deposited: 200	Amount before deposit: 50000	Current Balance: 50200	Trx status: Success	Failure reason: --

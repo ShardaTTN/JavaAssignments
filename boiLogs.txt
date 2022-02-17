@@ -1,0 +1,2 @@
+
+Time of transaction: 2022.02.17.20.34.24	Account number: 1900781268	Amount withdrawn: 300	Amount before withdrawal: 90000	Current Balance: 89700	Trx status: Success	Failure reason: --
